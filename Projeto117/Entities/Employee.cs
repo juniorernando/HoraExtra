@@ -8,6 +8,7 @@
 
         public Employee()
         {
+
         }
 
         public Employee(string name, int hours, double valuePerHour)
